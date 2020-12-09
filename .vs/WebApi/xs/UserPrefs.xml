@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{3BC090A9-214A-4853-89E2-80B9F81452F1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApi/Properties/launchSettings.json">
+    <Files>
+      <File FileName="WebApi/Models/DonationDBContext.cs" Line="17" Column="1" />
+      <File FileName="WebApi/Models/DCandidate.cs" />
+      <File FileName="WebApi/Startup.cs" />
+      <File FileName="WebApi/Controller/DCandidateController.cs" Line="51" Column="1" />
+      <File FileName="WebApi/Properties/launchSettings.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebApi" expanded="True">
+            <Node name="WebApi" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controller" expanded="True" />
+              <Node name="Properties" expanded="True">
+                <Node name="launchSettings.json" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WebApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
