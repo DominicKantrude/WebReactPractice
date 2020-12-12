@@ -1,11 +1,11 @@
 ﻿<Properties StartupConfiguration="{3BC090A9-214A-4853-89E2-80B9F81452F1}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="WebApi/Properties/launchSettings.json">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApi/Controller/DCandidateController.cs">
     <Files>
       <File FileName="WebApi/Models/DonationDBContext.cs" Line="17" Column="1" />
       <File FileName="WebApi/Models/DCandidate.cs" />
       <File FileName="WebApi/Startup.cs" />
-      <File FileName="WebApi/Controller/DCandidateController.cs" Line="51" Column="1" />
-      <File FileName="WebApi/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="WebApi/Controller/DCandidateController.cs" Line="89" Column="1" />
+      <File FileName="WebApi/Properties/launchSettings.json" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -16,10 +16,10 @@
                 <Node name="FrameworkReferences" expanded="True" />
                 <Node name="PackageDependencies" expanded="True" />
               </Node>
-              <Node name="Controller" expanded="True" />
-              <Node name="Properties" expanded="True">
-                <Node name="launchSettings.json" selected="True" />
+              <Node name="Controller" expanded="True">
+                <Node name="DCandidateController.cs" selected="True" />
               </Node>
+              <Node name="Properties" expanded="True" />
             </Node>
           </Node>
         </State>
